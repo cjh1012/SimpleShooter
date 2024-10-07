@@ -1,6 +1,6 @@
 [
 	{
-		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.cpp",
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
@@ -8,7 +8,23 @@
 		"directory": "D:\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\MyPawn.h",
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\SimpleShooter\\Source\\SimpleShooter\\ShooterAIController.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.1.rsp"
